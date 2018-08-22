@@ -1,2 +1,3 @@
-# resume
-Just my resume
+# Resume
+
+Code for building my resume in Latex.
